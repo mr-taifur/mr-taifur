@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Taifur!
 
-<!--
-**mr-taifur/mr-taifur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm passionate about technology, coding, and continuous learning. I love building cool things with code and collaborating with developers around the world.
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programming: JavaScript, Python, TypeScript, Go, Java
+- Web: React, Next.js, Node.js, Express
+- Databases: PostgreSQL, MongoDB, MySQL
+- Tools: Git, GitHub Actions, VS Code
+
+## 📈 GitHub Stats
+
+![Taifur's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-taifur&show_icons=true&hide_title=true&count_private=true)
+
+## 🌱 What I'm Learning
+
+- Cloud-native development
+- AI/ML fundamentals
+- Advanced backend architectures
+
+## 📫 How to reach me
+
+- Email: rahman15-5750@diu.edu.bd
+- LinkedIn: [linkedin.com/in/taifur](in/taifur-rahman-840b492b0)
+- Github: [mr_taifur](https://github.com/mr-taifur)
+
+## ⚡ Fun Fact
+
+I love solving puzzles, exploring new frameworks, and sometimes I contribute to open source!
+
+---
+
+Thanks for visiting my profile!  
+Feel free to check out my repositories, star ⭐ your favorites, and connect!
