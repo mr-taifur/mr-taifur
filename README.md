@@ -23,7 +23,7 @@ I'm passionate about technology, coding, and continuous learning. I love buildin
 ## 📫 How to reach me
 
 - Email: rahman15-5750@diu.edu.bd
-- LinkedIn: [linkedin.com/in/taifur](in/taifur-rahman-840b492b0)
+- LinkedIn: [linkedin.com/in/taifur](https://www.linkedin.com/in/taifur-rahman-840b492b0/)
 - Github: [mr_taifur](https://github.com/mr-taifur)
 
 ## ⚡ Fun Fact
