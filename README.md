@@ -1,36 +1,62 @@
-# 👋 Hi, I'm Taifur!
-
-Welcome to my GitHub profile!  
-I'm passionate about technology, coding, and continuous learning. I love building cool things with code and collaborating with developers around the world.
-
-## 🛠️ Skills & Tools
-
-- Programming: JavaScript, Python, TypeScript, Go, Java
-- Web: React, Next.js, Node.js, Express
-- Databases: PostgreSQL, MongoDB, MySQL
-- Tools: Git, GitHub Actions, VS Code
-
-## 📈 GitHub Stats
-
-![Taifur's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-taifur&show_icons=true&hide_title=true&count_private=true)
-
-## 🌱 What I'm Learning
-
-- Cloud-native development
-- AI/ML fundamentals
-- Advanced backend architectures
-
-## 📫 How to reach me
-
-- Email: rahman15-5750@diu.edu.bd
-- LinkedIn: [linkedin.com/in/taifur](https://www.linkedin.com/in/taifur-rahman-840b492b0/)
-- Github: [mr_taifur](https://github.com/mr-taifur)
-
-## ⚡ Fun Fact
-
-I love solving puzzles, exploring new frameworks, and sometimes I contribute to open source!
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=550&lines=Hi+👋,+I'm+Taifur+Rahman;CSE+Student+@+DIU;AI+%7C+ML+%7C+Web+Developer;Always+Learning+New+Things+🚀" />
+</h1>
 
 ---
 
-Thanks for visiting my profile!  
-Feel free to check out my repositories, star ⭐ your favorites, and connect!
+## 🌟 About Me
+- 🎓 CSE Student at **Daffodil International University**  
+- 🤖 Passionate about **Artificial Intelligence, Machine Learning, and Deep Learning**  
+- 🛍️ Developer of **BD Haat (Traditional E-Commerce Platform)**  
+- 📱 Building **DIU Lost & Found (Flutter + Laravel)**  
+- 🌿 Researching **Medicinal Plant Identification using DL**  
+- ❤️ Dream: Use **Tech to Solve Real Problems** in Bangladesh  
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,php,laravel,flutter,html,css,js,mysql,git,github,vscode,figma" />
+</p>
+
+---
+
+## 📊 GitHub Stats & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=tokyonight" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark" />
+</p>
+
+---
+
+## 📂 Featured Projects
+- 🛍️ [**BD Haat**](https://github.com/mr-taifur/bd-haat) — Traditional foods & clothes e-commerce  
+- 📱 **DIU Lost & Found** — Lost item recovery system (Flutter + Laravel)  
+- 🤖 **Mini Compiler** — Subset of C/Python with Lex/Yacc + optimization  
+- 🌿 **Medicinal Plant Identification** — Deep learning for Bangladesh  
+
+---
+
+## 🏆 Achievements & Goals
+- ✅ Built multiple academic & personal projects  
+- 📖 Published literature review on **AI in Medicinal Plant Identification**  
+- 🎯 Goal: Research in **AI-driven Healthcare & Agriculture**  
+- 🌏 Contribute to **open-source & impactful tech**  
+
+---
+
+## 📬 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/[your-linkedin](https://www.linkedin.com/in/taifur-rahman-840b492b0/)"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:your.rahman15-5750@diu.edu.bd"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://github.com/mr-taifur"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github"></a>
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/-Portfolio-green?style=for-the-badge&logo=google-chrome"></a>
+</p>
+
+---
+
+<p align="center">⚡ "Code. Learn. Build. Repeat." ⚡</p>
