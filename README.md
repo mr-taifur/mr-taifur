@@ -23,12 +23,12 @@
 
 ## 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-taifur&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mr-taifur&theme=tokyonight" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-taifur&theme=react-dark" />
 </p>
 
 ---
@@ -54,7 +54,6 @@
   <a href="https://linkedin.com/in/[your-linkedin](https://www.linkedin.com/in/taifur-rahman-840b492b0/)"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:your.rahman15-5750@diu.edu.bd"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://github.com/mr-taifur"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github"></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/-Portfolio-green?style=for-the-badge&logo=google-chrome"></a>
 </p>
 
 ---
