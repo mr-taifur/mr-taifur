@@ -51,7 +51,7 @@
 
 ## 📬 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/[[your-linkedin](https://www.linkedin.com/in/taifur-rahman-840b492b0/)]([https://www.linkedin.com/in/taifur-rahman-840b492b0/](https://www.linkedin.com/in/taifur-rahman-840b492b0/))"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="[https://linkedin.com/in/](https://www.linkedin.com/in/taifur-rahman-840b492b0/)"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:your.rahman15-5750@diu.edu.bd"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://github.com/mr-taifur"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github"></a>
 </p>
