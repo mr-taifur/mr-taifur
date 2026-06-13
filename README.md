@@ -1,16 +1,21 @@
+<h1 align="center">Hi 👋, I'm Taifur Rahman</h1>
+
+<h3 align="center">
+AI & Machine Learning Enthusiast | Software Developer | Researcher
+</h3>
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=550&lines=Hi+👋,+I'm+Taifur+Rahman;CSE+Student+@+DIU;AI+%7C+ML+%7C+Web+Developer;Always+Learning+New+Things+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=550&lines=CSE+Student+@+DIU;AI+%7C+ML+%7C+Web+Developer;Always+Learning+New+Things+🚀" />
 </h1>
 
 ---
 
 ## 🌟 About Me
 - 🎓 CSE Student at **Daffodil International University**  
-- 🤖 Passionate about **Artificial Intelligence, Machine Learning, and Deep Learning**  
+-  Passionate about **Artificial Intelligence, Machine Learning, and Deep Learning**  
 - 🛍️ Developer of **BD Haat (Traditional E-Commerce Platform)**  
 - 📱 Building **DIU Lost & Found (Flutter + Laravel)**  
 - 🌿 Researching **Medicinal Plant Identification using DL**  
-- ❤️ Dream: Use **Tech to Solve Real Problems** in Bangladesh  
+-  Thesis: HybridLeafNet: Transformer-CNN Fusion for Medicinal Plant Classification.  
 
 ---
 
@@ -27,16 +32,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mr-taifur&theme=tokyonight" height="165" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-taifur&theme=react-dark" />
-</p>
 
 ---
 
 ## 📂 Featured Projects
 - 🛍️ [**BD Haat**](https://github.com/mr-taifur/bd-haat) — Traditional foods & clothes e-commerce  
-- 📱 **DIU Lost & Found** — Lost item recovery system (Flutter + Laravel)  
-- 🤖 **Mini Compiler** — Subset of C/Python with Lex/Yacc + optimization  
+- 📱 **DIU Lost & Found** — Lost item recovery system (Flutter + Laravel)    
 - 🌿 **Medicinal Plant Identification** — Deep learning for Bangladesh  
 
 ---
